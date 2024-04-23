@@ -18,3 +18,8 @@ ResNet-50, Logistic Regression, and Random Forest.
 Prediction, Random Forest, neural networks, lenet,
 alexnet, vgg-16,vgg-19, resnet, logictTensorFlowion, adam, sgd
 optimizers, tensorflow, keras
+
+
+## Note
+In order to run the above files, download the necessary libraries using the command, " pip install [Libraryname] ". 
+These codes might take huge amount of time to train as we have perfoemed several experimental analysis and also it can vary based on the computing powers. 
