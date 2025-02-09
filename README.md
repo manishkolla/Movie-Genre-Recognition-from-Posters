@@ -17,10 +17,9 @@ performance of the proposed CNN is evaluated and compared
 against established models like LeNet, AlexNet, VGG variants,
 ResNet-50, Logistic Regression, and Random Forest.
 
-## Keywords: 
-Prediction, Random Forest, neural networks, lenet,
-alexnet, vgg-16,vgg-19, resnet, logictTensorFlowion, adam, sgd
-optimizers, tensorflow, keras
+
+## Problem Statement
+Manually categorizing movies based on their genre from posters is inefficient, especially with the ever-growing number of films released annually. Automated systems can help streamline this process, offering quick, accurate, and scalable solutions for large movie databases. This paper investigates the use of CNNs for automatic movie genre classification from poster images, aiming to build an effective and efficient model capable of performing genre classification in real-world applications.
 
 
 ## Note
