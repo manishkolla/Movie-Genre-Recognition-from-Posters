@@ -1,7 +1,7 @@
 # Movie-Genre-Recognition-from-Posters
 
 ## Keywords:
-Prediction, Random Forest, Neural Networks, LeNet, AlexNet, VGG-16, VGG-19, ResNet, Logistic Regression, TensorFlow, Adam Optimizer, SGD Optimizer, Keras, CNN, Image Classification, Deep Learning.
+Prediction, Random Forest, Neural Networks, LeNet, AlexNet, VGG-16, VGG-19, ResNet, Logistic Regression, TensorFlow, Adam Optimizer, SGD Optimizer, Keras, CNN, Image Classification, Deep Learning
 
 ## Abstract
 This paper proposes a Convolutional Neural
