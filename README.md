@@ -23,5 +23,5 @@ Manually categorizing movies based on their genre from posters is inefficient, e
 
 
 ## Note
-In order to run the above files, download the necessary libraries using the command, " pip install [Libraryname] " or if running in Jupyter Notebooks then use command . 
+In order to run the above files, download the necessary libraries using the command, " pip install [Libraryname] " or if running in Jupyter Notebooks then use command " pip install [Libraryname] ". 
 These codes might take huge amount of time to train as we have perfoemed several experimental analysis and also it can vary based on the computing powers. 
